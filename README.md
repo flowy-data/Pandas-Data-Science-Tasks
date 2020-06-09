@@ -5,6 +5,8 @@ Please have a look at thought process:
 Part 1: Loading and Cleaning Data 
 https://nbviewer.jupyter.org/github/flowy-data/Pandas-Data-Science-Tasks/blob/master/SalesAnalysis/1.%20Loading%20and%20Cleaning%20Data.ipynb
 
+Part 2: Data Exploration and Plotting
+https://nbviewer.jupyter.org/github/flowy-data/Pandas-Data-Science-Tasks/blob/master/SalesAnalysis/2.%20Data%20Exploration.ipynb
 
 
 
