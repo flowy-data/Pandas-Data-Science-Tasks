@@ -1,3 +1,20 @@
+I forked the repo and tried to explore the data.
+
+Please have a look at thought process:
+
+Part 1: Loading and Cleaning Data 
+https://nbviewer.jupyter.org/github/flowy-data/Pandas-Data-Science-Tasks/blob/master/SalesAnalysis/1.%20Loading%20and%20Cleaning%20Data.ipynb
+
+
+
+
+
+
+
+
+From original Repo:
+
+
 # Pandas-Data-Science-Tasks
 Set of real world data science tasks completed using the Python Pandas library.
 
